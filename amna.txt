@@ -1,0 +1,7 @@
+cd "D:\Node.Js\Task"
+code .
+git init
+git add .
+git commit -am "Added amna.txt"
+git remote add origin https://github.com/AmnaZaher/NodeJS-Day4.git
+git push -u origin main
